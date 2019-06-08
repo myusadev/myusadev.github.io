@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: myusadev.me
+Token: 3d0a7dcd284c0a8bd01a10a21ff2cb0e2c2ab91ff8b4f67423825052c836a169
